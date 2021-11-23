@@ -1,9 +1,10 @@
 body{
     margin:0;
     padding-top: 800px;
-    text-align: center;}
+text-align: center;
+}
 
-.image{
+.profile{
 width: 175px;
 margin-bottom: 50px;
 border-radius: 50%;
@@ -30,7 +31,7 @@ font-family: monospace;
 font-weight: 300;
 }
 
-.name
+.name{
 font-size: 30px;
 line-height: 1.2;
 font-family: 'Oswald';
@@ -40,16 +41,16 @@ h2{
 font-size: 30px;
 font-weight: 300;
 line-height: 1.2;
-font-family:cursive;
+font-family: monospace;
 }
 
-#about{
+#bio{
 padding: 50px;
 text-align: center;
 }
 .line{
 height: 6px;
-background-color:cornflowerblue;
+background-color: antiquewhite;
 width: 70px;
 margin: 8px auto;
 }
@@ -70,19 +71,19 @@ list-style: none;
 font-family: sans-serif;
 position: absolute;
 top: 10px;
-right: 50px;
+right: 500px;
 z-index: 10;
-cursor:alias;
+cursor: pointer;
 }
 .links{
 float: left;
-color:black;
+color: cadetblue;
 padding-top: 5px;
 padding-bottom: 5px;
 padding-right: 9px;
 padding-left: 9px;
 font-family: serif;
-font-size: 20px;
+font-size: 25px;
 }
 .links:hover{
 background-color: azure;
