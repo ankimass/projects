@@ -1,33 +1,47 @@
-#submit_button
+#contact iframe
 {
-	margin-top: 20px; 
-	margin-bottom: 20px; 
+    width: 100%;
 }
-#sort_button
+.contact_1 h3
 {
-	display: none;
-	margin-top: 20px; 
-	margin-bottom: 20px; 
+    display: inline;
 }
-
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
 input
 {
-	margin: 10px;
-}
-.display_name_with_commas
-{
-	border: 1px solid green;
-    padding: 10px;
-	background-color: greenyellow;
-	border-radius: 10px;
-    width: 50%;
+    background: grey
 }
 
-#display_name_without_commas
+
+.nutrition_li
 {
-	border: 1px solid red;
-    padding: 10px;
-    background-color: lightcoral;
-	border-radius: 10px;
-    width: 50%;
+  margin-top: 13px;
 }
+
+.nutrition_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.nutrition_li img
+{
+  border-radius: 25px;
+}
+
+.nutrition_li p
+{
+  margin-top:10px;
+}
+
+.header_entrepreneur
+{
+  line-height: 2;
+}
+
+
+
