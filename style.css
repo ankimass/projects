@@ -1,2 +1,14 @@
-  
-  
+.b_b{
+    background-image: url(image.jpg);
+    background-position:center ;
+    background-size: cover;
+}
+h1{
+    color: aquamarine;
+    font-size: 30px;
+}
+#mycanvas{
+    border-width: 20px;
+ background-color: beige;
+    border-style: ridge;
+}
